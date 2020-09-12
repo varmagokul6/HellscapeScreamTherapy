@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: a89387e035f451d46be806a145011737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6156818460083713066
+    second: OakHacks_Punch-Sheet_0
+  - first:
+      213: 8243001458100729551
+    second: OakHacks_Punch-Sheet_1
+  - first:
+      213: -6203351150188924226
+    second: OakHacks_Punch-Sheet_2
+  - first:
+      213: 6070723701924713703
+    second: OakHacks_Punch-Sheet_3
+  - first:
+      213: -8324022466413990677
+    second: OakHacks_Punch-Sheet_4
+  - first:
+      213: 4740490594573717776
+    second: OakHacks_Punch-Sheet_5
+  - first:
+      213: -699109419851586396
+    second: OakHacks_Punch-Sheet_6
+  - first:
+      213: -2366548399005706856
+    second: OakHacks_Punch-Sheet_7
+  - first:
+      213: 1712632684969175324
+    second: OakHacks_Punch-Sheet_8
+  - first:
+      213: -6852371854872910997
+    second: OakHacks_Punch-Sheet_9
+  - first:
+      213: -4680839019684913962
+    second: OakHacks_Punch-Sheet_10
+  - first:
+      213: 3632388944079328668
+    second: OakHacks_Punch-Sheet_11
+  - first:
+      213: 2018909673860397298
+    second: OakHacks_Punch-Sheet_12
+  - first:
+      213: -2010394295940277881
+    second: OakHacks_Punch-Sheet_13
+  - first:
+      213: 1933599975270523730
+    second: OakHacks_Punch-Sheet_14
+  - first:
+      213: 8908911011133013550
+    second: OakHacks_Punch-Sheet_15
+  - first:
+      213: -2494466753063689907
+    second: OakHacks_Punch-Sheet_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 239
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247bdbe4c9617550800000000000000
+      internalID: 6156818460083713066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 243
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6fe112726056270800000000000000
+      internalID: 8243001458100729551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 239
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb27af3eef449e9a0800000000000000
+      internalID: -6203351150188924226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 0
+        width: 239
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e454c6fa0b8f3450800000000000000
+      internalID: 6070723701924713703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 243
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece50b5ba12b7c80800000000000000
+      internalID: -8324022466413990677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 0
+        width: 243
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01195ae541b99c140800000000000000
+      internalID: 4740490594573717776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 0
+        width: 243
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ed9acfa34c46f0800000000000000
+      internalID: -699109419851586396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 0
+        width: 242
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895de7505c4582fd0800000000000000
+      internalID: -2366548399005706856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 0
+        width: 243
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19af426a5e74c710800000000000000
+      internalID: 1712632684969175324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 0
+        width: 322
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636a697a1c77e0a0800000000000000
+      internalID: -6852371854872910997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4931
+        y: 0
+        width: 334
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc94e436b15a0fb0800000000000000
+      internalID: -4680839019684913962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5393
+        y: 0
+        width: 267
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9597e9df76d86230800000000000000
+      internalID: 3632388944079328668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5875
+        y: 0
+        width: 351
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87c08d6ab940c10800000000000000
+      internalID: 2018909673860397298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6353
+        y: 0
+        width: 351
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78912041a05a914e0800000000000000
+      internalID: -2010394295940277881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6835
+        y: 0
+        width: 241
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25324bfcee685da10800000000000000
+      internalID: 1933599975270523730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7301
+        y: 0
+        width: 239
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e362afc5fc2ab70800000000000000
+      internalID: 8908911011133013550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakHacks_Punch-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7780
+        y: 0
+        width: 242
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ed9f44bfd16dd0800000000000000
+      internalID: -2494466753063689907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
