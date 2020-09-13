@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Artwork\destroyObject.cs" />
     <Compile Include="Assets\HealthBar.cs" />
     <Compile Include="Assets\HitScript.cs" />
     <Compile Include="Assets\ListenToMic.cs" />

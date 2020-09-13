@@ -916,7 +916,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 809885706}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.49, y: -1.654, z: 0}
+  m_LocalPosition: {x: -1.73, y: -1.654, z: 0}
   m_LocalScale: {x: 0.25, y: 0.25, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1073,13 +1073,13 @@ CircleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 809885706}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 3.3, y: 1}
+  m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 1
 --- !u!114 &809885715
@@ -1094,7 +1094,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c058a0ba5dc0f664cb8431a7462f33ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPic: {fileID: 5885233015978986153, guid: 2e38416f78d4afc41a824da8ad12ee03, type: 3}
+  hitPic: {fileID: 941191456663464913, guid: 02cbae71a1758af40ab46af20a735af1, type: 3}
 --- !u!1 &1086549852
 GameObject:
   m_ObjectHideFlags: 0
