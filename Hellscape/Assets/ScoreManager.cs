@@ -15,7 +15,7 @@ public class ScoreManager : MonoBehaviour
     void Start()
     {
         score = 0;
-		enemyHealth = 1000;
+		enemyHealth = 5000;
     }
 
     // Update is called once per frame
