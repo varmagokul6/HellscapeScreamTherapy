@@ -18,9 +18,23 @@ public class ListenToMic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float loudness = 20 * Mathf.Log10(Mathf.Abs(MicInput.MicFinal));
-        Debug.Log("In decibels: " + loudness.ToString("##-####"));
+        checkDecibel();
         
+        checkTimeFlag();
+        
+    }
+
+    public void checkDecibel(){
+        if (timerObject.timeFlag == true){
+            float loudness = 20 * Mathf.Log10(Mathf.Abs(MicInput.MicFinal));
+            Debug.Log("In decibels: " + loudness.ToString("##-####"));
+        }
+        else{
+            micObject.StopMicrophone();
+        }
+    }
+
+    public void checkTimeFlag(){
         if (timerObject.timeFlag == false){
             micObject.StopMicrophone();
         }

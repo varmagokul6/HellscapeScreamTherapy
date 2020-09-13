@@ -9,7 +9,7 @@ public class MicInput : MonoBehaviour
     public static MicInput Instance { set; get; }
     
     #endregion
-    bool isInitialized; 
+    public bool isInitialized; 
     public static float MicFinal;
  
     private string device;
