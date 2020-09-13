@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\HealthBar.cs" />
+    <Compile Include="Assets\HitScript.cs" />
     <Compile Include="Assets\ListenToMic.cs" />
     <Compile Include="Assets\MicInput.cs" />
     <Compile Include="Assets\MovementScripts\PlayerMovement.cs" />

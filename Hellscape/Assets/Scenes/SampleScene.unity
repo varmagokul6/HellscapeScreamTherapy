@@ -348,6 +348,7 @@ GameObject:
   - component: {fileID: 272526230}
   - component: {fileID: 272526229}
   - component: {fileID: 272526228}
+  - component: {fileID: 272526231}
   m_Layer: 0
   m_Name: Monster
   m_TagString: Untagged
@@ -410,9 +411,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1989449535
+  m_SortingLayerID: -1119763191
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5522441901827789493, guid: f70df42480907aa40a9b68f0c9f28f91,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -439,6 +440,32 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &272526231
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272526227}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 1
+  m_Offset: {x: 0.9, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5, y: 5}
+    newSize: {x: 5, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -872,6 +899,8 @@ GameObject:
   - component: {fileID: 809885711}
   - component: {fileID: 809885713}
   - component: {fileID: 809885712}
+  - component: {fileID: 809885714}
+  - component: {fileID: 809885715}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -912,7 +941,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!61 &809885709
 BoxCollider2D:
@@ -976,9 +1005,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1945787269
+  m_SortingLayerID: 1989449535
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1656365988211753464, guid: 361cebf55dfc837429ddda6fb07c8ca0,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1037,6 +1066,35 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 809885712}
+--- !u!58 &809885714
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809885706}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 3.3, y: 1}
+  serializedVersion: 2
+  m_Radius: 1
+--- !u!114 &809885715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809885706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c058a0ba5dc0f664cb8431a7462f33ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitPic: {fileID: 5885233015978986153, guid: 2e38416f78d4afc41a824da8ad12ee03, type: 3}
 --- !u!1 &1086549852
 GameObject:
   m_ObjectHideFlags: 0

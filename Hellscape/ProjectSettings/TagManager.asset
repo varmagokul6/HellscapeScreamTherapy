@@ -41,9 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Front
+  - name: Frontest
+    uniqueID: 3175204105
+    locked: 0
+  - name: Fronter
     uniqueID: 1989449535
     locked: 0
-  - name: Front2
+  - name: Front
     uniqueID: 1945787269
     locked: 0
