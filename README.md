@@ -2,7 +2,7 @@
 
 Submission for OakHacks 2020
 
-<a href="https://devpost.com/software/hellscapescreamtherapy/edit">See our Devpost submission</a>
+<a href="https://devpost.com/software/hellscapescreamtherapy">See our Devpost submission</a>
 
 ### Inspiration
 The amount of stress we get as college student is infinite; with the amount of work and studying we have to do every day, there are times during the day where we just want to scream in hopes that all our stress just flies out. If anything, we wanted to create a stress relief app with a unique twist.
